@@ -12,3 +12,8 @@
 <img width="736" height="497" alt="WhatsApp Image 2026-10-22 at 4 11 52 PM" src="https://github.com/user-attachments/assets/0d6f0cc1-9097-4adb-8ba3-da8de1d870b7" />
 
 ***Repositorio De Vale :D***
+
+## *Licencia*
+***[License: MIT](https://opensource.org)***
+
+***Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.***
